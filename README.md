@@ -1,6 +1,8 @@
 
 # Superstore Data Analysis Project
 
+https://github.com/Himanshu-Sahu18/ElevateLabs-DA-Task2/issues/1#issue-3113560992
+
 ## Overview
 This project presents a comprehensive analysis of the Superstore dataset using Power BI. The objective is to uncover insights related to sales performance, customer behavior, and product trends across regions, segments, and time periods. The dashboard was designed with storytelling in mind, using interactive visuals to support data-driven decisions.
 
