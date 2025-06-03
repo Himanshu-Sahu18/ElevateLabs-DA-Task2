@@ -1,7 +1,7 @@
 
 # Superstore Data Analysis Project
 
-
+![Image](https://github.com/user-attachments/assets/40fbfe5b-32d5-42d4-befc-7f15917ed2ae)
 
 ## Overview
 This project presents a comprehensive analysis of the Superstore dataset using Power BI. The objective is to uncover insights related to sales performance, customer behavior, and product trends across regions, segments, and time periods. The dashboard was designed with storytelling in mind, using interactive visuals to support data-driven decisions.
